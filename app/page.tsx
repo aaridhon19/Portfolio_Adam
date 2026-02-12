@@ -389,7 +389,7 @@ export default function Home() {
             </div>
 
             <p className="text-base md:text-lg text-gray-600 dark:text-gray-400 text-justify">
-              I have a bachelor's degree in informatics engineering and work as a
+              I have a bachelor&apos;s degree in informatics engineering and work as a
               {" "}
               <span className="font-medium text-gray-800 dark:text-gray-200">
                 Backend Developer
@@ -402,7 +402,7 @@ export default function Home() {
             </p>
 
             <p className="text-base md:text-lg text-gray-600 dark:text-gray-400 text-justify">
-              In a microservices setting, I've worked professionally with
+              In a microservices setting, I&apos;ve worked professionally with
               {" "}
               <span className="font-medium text-gray-800 dark:text-gray-200">NestJS</span>,{" "}
               <span className="font-medium text-gray-800 dark:text-gray-200">Node.js</span>,{" "}
@@ -413,7 +413,7 @@ export default function Home() {
             </p>
 
             <p className="text-base md:text-lg text-gray-600 dark:text-gray-400 text-justify">
-              I appreciate working with cross-functional teams to create scalable and reliable systems, and I appreciate clear, understandable, and well-tested code. I'm now working to increase my knowledge of distributed systems, performance optimization, and backend architecture.
+              I appreciate working with cross-functional teams to create scalable and reliable systems, and I appreciate clear, understandable, and well-tested code. I&apos;m now working to increase my knowledge of distributed systems, performance optimization, and backend architecture.
             </p>
           </div>
 
