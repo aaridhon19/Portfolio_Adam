@@ -4,7 +4,7 @@ This is my personal portfolio website built using Next.js.
 It showcases my professional experience as a Backend Developer, technical projects, and the technologies I work with.
 
 ## 🌐 Live Demo
-[Visit Portfolio](https://portofolio-adam-rizqi-romadhon.vercel.app)
+[Visit Portfolio](https://portfolio-adam-rizqi-romadhon.vercel.app)
 
 ---
 
